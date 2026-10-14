@@ -1,5 +1,4 @@
-# Even-Odd-Number-Analysis
-simple program to identify the even and odd number and largest and smallest number in list
+
 # Even-Odd Number Analysis
 
 ## About the Project
